@@ -1,1 +1,2 @@
 this is free file
+we are in the git session
